@@ -12,7 +12,7 @@ def verifica_nota(nota):
     elif(nota >= 0.6 and nota < 0.7):
         return "D"
     
-    elif(nota >= 0 and nota < 6):
+    elif(nota >= 0 and nota < 0.6):
         return "F"       
     
     else:
