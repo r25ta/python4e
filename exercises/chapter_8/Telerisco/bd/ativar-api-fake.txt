@@ -1,0 +1,10 @@
+#INSTALAR PACOTE JSON-server
+sudo npm install -g json-server 
+
+#ATIVAR SERVIDOR API-FAKE
+json-server /home/ronaldo/_DESENVOLVIMENTO/Python/python4e/exercises/chapter_8/Telerisco/bd/db.json
+
+#ACESSAR SERVIÇO FAKE
+http://localhost:3000/telerisco-antigo
+
+http://localhost:3000/telerisco-novo
