@@ -49,8 +49,5 @@ def main():
     print("Usuário que mais recebeu e-mail: ",idx_maior,dic_emails[idx_maior])
     print("Usuário que menos recebeu email: ",idx_menor,dic_emails[idx_menor])       
             
-            
-# QUEM RECEBEU MENOS EMAIL
-       
        
 main()
